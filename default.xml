@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   
-  <remote  name="github"
-           fetch="http://github.com/android-dre/" />
-  <default remote="github" revision="master" />
-  <project name="kernel4.12.6" path="kernel/kernel-dre" remote="github" revision="master" />
+  <remote  name="github" fetch="http://github.com/android-dre/" />
   <project name="uboot201707" path="bootable/uboot-dre" remote="github" revision="master" />
 
 </manifest>
