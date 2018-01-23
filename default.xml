@@ -6,6 +6,5 @@
   <default remote="github" revision="master" />
   <project name="kernel4.12.6" path="kernel/kernel-dre" remote="github" revision="master" />
   <project name="uboot201707" path="bootable/uboot-dre" remote="github" revision="master" />
-  </project>
 
 </manifest>
