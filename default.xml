@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  
+  <remote  name="github"
+           fetch="http://github.com/android-dre/" />
+  <include name="include/linux-dre.xml" />
+
+</manifest>
